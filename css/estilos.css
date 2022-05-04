@@ -1,11 +1,12 @@
 body{
-    color: blue;
-    text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-}
+        background: #181e3a;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-family: Arial;
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+    }
 #container
 {
     width: 70%;
@@ -39,4 +40,11 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+/* seccion logo */
+#cabecera #logo
+{
+    width: 55px;
+    vertical-align: middle;
 }
