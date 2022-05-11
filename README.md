@@ -13,5 +13,4 @@ Un blog inicial para el curso de Git y GitHub de Platzi
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
 
-Y como recordatorio esto solo es un ejemplo practico para el aprendizaje del curso el cual no debes tomarte de forma seria para ello te invito a visitar [CursoGitYGithub][10] :tw-1f49a: 
-[10]: https://platzi.com/cursos/git-github/ "curso que imparte platzi "
+Y como recordatorio esto solo es un ejemplo practico para el aprendizaje del curso el cual no debes tomarte de forma seria para ello te invito a visitar [**CursoGitYGithub**](https://platzi.com/cursos/git-github/ "CursoGitYGithub") :tw-1f49a: 
