@@ -3,7 +3,7 @@ Un blog inicial para el curso de Git y GitHub de Platzi
 *Con este curso he aprendido algo fundamental en el desarrollo profesional de programacion puesto que es un punto clave para el entorno laboral el saber sobre Git y GitHub*
 - **Jesus Daniel Lucas Vg.**
 
-##En este curso se arende sobre;
+## En este curso se arende sobre;
 - Todos los comandos de Git
 - El flujo de trabajo de Git
 - El verdadero amor por las buenas prácticas
