@@ -1,4 +1,4 @@
-# hyperblog 
+# hyperblog 💚
 Un blog inicial para el curso de Git y GitHub de Platzi
 *Con este curso he aprendido algo fundamental en el desarrollo profesional de programacion puesto que es un punto clave para el entorno laboral el saber sobre Git y GitHub*
 - **Jesus Daniel Lucas Vg.**
@@ -13,4 +13,4 @@ Un blog inicial para el curso de Git y GitHub de Platzi
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
 
-Y como recordatorio esto solo es un ejemplo practico para el aprendizaje del curso el cual no debes tomarte de forma seria para ello te invito a visitar [**CursoGitYGithub**](https://platzi.com/cursos/git-github/ "CursoGitYGithub") :tw-1f49a: 
+Y como recordatorio esto solo es un ejemplo practico para el aprendizaje del curso el cual no debes tomarte de forma seria para ello te invito a visitar [**CursoGitYGithub**](https://platzi.com/cursos/git-github/ "CursoGitYGithub") 💚 
